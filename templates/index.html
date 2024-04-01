@@ -37,6 +37,13 @@
         document.getElementById("form").submit();
       }
     });
+    // Add script to clear input box after successful download
+    window.onload = function() {
+      var message = "{{ message }}";
+      if (message === "") {
+        document.getElementById("video_url").value = ""; // Clear the input box
+      }
+    };
   </script>
 
 </body>
