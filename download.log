@@ -1,0 +1,146 @@
+2024-04-01 12:58:46,417 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.230.238:8080
+2024-04-01 12:58:46,417 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-01 12:59:15,006 - INFO - 127.0.0.1 - - [01/Apr/2024 12:59:15] "GET / HTTP/1.1" 200 -
+2024-04-01 12:59:15,025 - INFO - 127.0.0.1 - - [01/Apr/2024 12:59:15] "GET /static/style.css HTTP/1.1" 200 -
+2024-04-01 12:59:15,028 - INFO - 127.0.0.1 - - [01/Apr/2024 12:59:15] "GET /static/script.js HTTP/1.1" 200 -
+2024-04-01 12:59:15,617 - INFO - 127.0.0.1 - - [01/Apr/2024 12:59:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-01 13:00:03,679 - INFO - 127.0.0.1 - - [01/Apr/2024 13:00:03] "GET / HTTP/1.1" 200 -
+2024-04-01 13:00:03,687 - INFO - 127.0.0.1 - - [01/Apr/2024 13:00:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-04-01 13:00:03,688 - INFO - 127.0.0.1 - - [01/Apr/2024 13:00:03] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-04-01 13:03:07,081 - INFO - 127.0.0.1 - - [01/Apr/2024 13:03:07] "GET / HTTP/1.1" 200 -
+2024-04-01 13:03:07,092 - INFO - 127.0.0.1 - - [01/Apr/2024 13:03:07] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-04-01 13:03:07,092 - INFO - 127.0.0.1 - - [01/Apr/2024 13:03:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-04-01 13:03:40,440 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+2024-04-01 13:03:40,440 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-01 13:03:40,445 - INFO -  * Restarting with watchdog (fsevents)
+2024-04-01 13:03:40,632 - WARNING -  * Debugger is active!
+2024-04-01 13:03:40,642 - INFO -  * Debugger PIN: 129-459-036
+2024-04-01 13:03:45,286 - INFO - 127.0.0.1 - - [01/Apr/2024 13:03:45] "GET / HTTP/1.1" 200 -
+2024-04-01 13:03:45,303 - INFO - 127.0.0.1 - - [01/Apr/2024 13:03:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-04-01 13:03:45,304 - INFO - 127.0.0.1 - - [01/Apr/2024 13:03:45] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-04-01 13:04:00,298 - ERROR - Error downloading video: ERROR: [generic] 'yeusebx' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:yeusebx" ) to search YouTube
+
+2024-04-01 13:04:00,299 - INFO - 127.0.0.1 - - [01/Apr/2024 13:04:00] "POST / HTTP/1.1" 200 -
+2024-04-01 13:04:00,310 - INFO - 127.0.0.1 - - [01/Apr/2024 13:04:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-04-01 13:04:00,311 - INFO - 127.0.0.1 - - [01/Apr/2024 13:04:00] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-04-01 13:06:06,180 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+2024-04-01 13:06:06,180 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-01 13:06:06,185 - INFO -  * Restarting with watchdog (fsevents)
+2024-04-01 13:06:06,364 - WARNING -  * Debugger is active!
+2024-04-01 13:06:06,370 - INFO -  * Debugger PIN: 129-459-036
+2024-04-01 13:06:13,324 - ERROR - Error downloading video: ERROR: [generic] 'yeusebx' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:yeusebx" ) to search YouTube
+
+2024-04-01 13:06:13,326 - INFO - 127.0.0.1 - - [01/Apr/2024 13:06:13] "POST / HTTP/1.1" 200 -
+2024-04-01 13:06:13,343 - INFO - 127.0.0.1 - - [01/Apr/2024 13:06:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-04-01 13:06:13,343 - INFO - 127.0.0.1 - - [01/Apr/2024 13:06:13] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-04-01 13:06:56,365 - INFO - Video downloaded at: /Users/subhajitgorai/Downloads/C14Hr6YPIRq_750x1333.mp4
+
+2024-04-01 13:06:56,381 - INFO - 127.0.0.1 - - [01/Apr/2024 13:06:56] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-01 13:06:56,393 - INFO - 127.0.0.1 - - [01/Apr/2024 13:06:56] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-04-01 13:06:56,396 - INFO - 127.0.0.1 - - [01/Apr/2024 13:06:56] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-04-01 13:06:56,404 - INFO - 127.0.0.1 - - [01/Apr/2024 13:06:56] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-04-01 13:10:31,702 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.230.238:8080
+2024-04-01 13:10:31,702 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-01 13:12:36,188 - INFO - 192.168.230.238 - - [01/Apr/2024 13:12:36] "GET / HTTP/1.1" 200 -
+2024-04-01 13:12:36,210 - INFO - 192.168.230.238 - - [01/Apr/2024 13:12:36] "GET /static/script.js HTTP/1.1" 200 -
+2024-04-01 13:12:36,210 - INFO - 192.168.230.238 - - [01/Apr/2024 13:12:36] "GET /static/style.css HTTP/1.1" 200 -
+2024-04-01 13:12:36,385 - INFO - 192.168.230.238 - - [01/Apr/2024 13:12:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-01 13:13:10,920 - INFO - Video downloaded at: /Users/subhajitgorai/Downloads/nRAWNobpmj0_720x1280.mp4
+
+2024-04-01 13:13:10,923 - ERROR - Exception on / [POST]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/flask/app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/flask/app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/flask/app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/flask/app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/subhajitgorai/PycharmProjects/TOP_TIER_CODES/Flask_Website/YouTube-new/app.py", line 49, in index
+    return send_file(message_or_path, as_attachment=True, attachment_filename=os.path.basename(message_or_path))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: send_file() got an unexpected keyword argument 'attachment_filename'
+2024-04-01 13:13:10,926 - INFO - 192.168.230.238 - - [01/Apr/2024 13:13:10] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-01 13:13:29,248 - INFO - Video downloaded at: /Users/subhajitgorai/Downloads/nRAWNobpmj0_720x1280.mp4
+
+2024-04-01 13:13:29,250 - ERROR - Exception on / [POST]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/flask/app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/flask/app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/flask/app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/flask/app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/subhajitgorai/PycharmProjects/TOP_TIER_CODES/Flask_Website/YouTube-new/app.py", line 49, in index
+    return send_file(message_or_path, as_attachment=True, attachment_filename=os.path.basename(message_or_path))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: send_file() got an unexpected keyword argument 'attachment_filename'
+2024-04-01 13:13:29,250 - INFO - 192.168.230.238 - - [01/Apr/2024 13:13:29] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-01 13:14:43,333 - INFO - 192.168.230.242 - - [01/Apr/2024 13:14:43] "GET / HTTP/1.1" 200 -
+2024-04-01 13:14:43,485 - INFO - 192.168.230.242 - - [01/Apr/2024 13:14:43] "GET /static/style.css HTTP/1.1" 200 -
+2024-04-01 13:14:43,503 - INFO - 192.168.230.242 - - [01/Apr/2024 13:14:43] "GET /static/script.js HTTP/1.1" 200 -
+2024-04-01 13:14:44,371 - INFO - 192.168.230.242 - - [01/Apr/2024 13:14:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-01 13:15:19,023 - INFO - Video downloaded at: /Users/subhajitgorai/Downloads/61ysrv5NmBU_720x1280.mp4
+
+2024-04-01 13:15:19,024 - ERROR - Exception on / [POST]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/flask/app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/flask/app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/flask/app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/flask/app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/subhajitgorai/PycharmProjects/TOP_TIER_CODES/Flask_Website/YouTube-new/app.py", line 49, in index
+    return send_file(message_or_path, as_attachment=True, attachment_filename=os.path.basename(message_or_path))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: send_file() got an unexpected keyword argument 'attachment_filename'
+2024-04-01 13:15:19,024 - INFO - 192.168.230.242 - - [01/Apr/2024 13:15:19] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-01 13:17:19,880 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.230.238:8080
+2024-04-01 13:17:19,880 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-01 13:18:05,072 - INFO - 192.168.230.242 - - [01/Apr/2024 13:18:05] "GET / HTTP/1.1" 200 -
+2024-04-01 13:18:05,106 - INFO - 192.168.230.242 - - [01/Apr/2024 13:18:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-04-01 13:18:05,110 - INFO - 192.168.230.242 - - [01/Apr/2024 13:18:05] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-04-01 13:18:18,777 - INFO - Video downloaded at: /Users/subhajitgorai/Downloads/61ysrv5NmBU_720x1280.mp4
+
+2024-04-01 13:18:18,778 - INFO - 192.168.230.242 - - [01/Apr/2024 13:18:18] "POST / HTTP/1.1" 200 -
+2024-04-01 13:23:51,093 - INFO - 192.168.230.242 - - [01/Apr/2024 13:23:51] "GET / HTTP/1.1" 200 -
+2024-04-01 13:23:51,142 - INFO - 192.168.230.242 - - [01/Apr/2024 13:23:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-04-01 13:23:51,150 - INFO - 192.168.230.242 - - [01/Apr/2024 13:23:51] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-04-01 13:23:51,777 - INFO - 192.168.230.242 - - [01/Apr/2024 13:23:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-01 13:24:07,245 - INFO - Video downloaded at: /Users/subhajitgorai/Downloads/61ysrv5NmBU_720x1280.mp4
+
+2024-04-01 13:24:07,246 - INFO - 192.168.230.242 - - [01/Apr/2024 13:24:07] "POST / HTTP/1.1" 200 -
+2024-04-01 13:24:47,192 - INFO - Video downloaded at: /Users/subhajitgorai/Downloads/GTVjdFUJJmY_640x360.mp4
+
+2024-04-01 13:24:47,194 - INFO - 192.168.230.242 - - [01/Apr/2024 13:24:47] "POST / HTTP/1.1" 200 -
+2024-04-01 13:25:14,450 - INFO - Video downloaded at: /Users/subhajitgorai/Downloads/GTVjdFUJJmY_640x360.mp4
+
+2024-04-01 13:25:14,452 - INFO - 192.168.230.242 - - [01/Apr/2024 13:25:14] "POST / HTTP/1.1" 200 -

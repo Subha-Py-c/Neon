@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <script src="{{ url_for('static', filename='script.js') }}" defer></script>
+  <style>
+    /* Add CSS styles here */
+  </style>
+</head>
+<body>
+
+  <form id="form" class="form" method="post" action="/">
+    <!-- Set the form action to "/" which corresponds to the root route in Flask -->
+
+    <div id="heading" class="glass glass--gradient glass--heading">
+      <span class="form-header">
+        <span class="form-icon"></span><span class="form-title">Provide the YouTube URL here, press ENTER/RETURN to submit</span> </span>
+      <button class="form-close-button">✕</button>
+    </div>
+
+    <div id="input" class="glass">
+      <input type="text" id="video_url" name="video_url"><br><br>
+      <!-- Ensure that the input field has the name "video_url" to match the request.form.get() call in Flask -->
+    </div>
+  </form>
+
+  <script>
+    // Add event listener to the input field
+    document.getElementById("video_url").addEventListener("keypress", function(event) {
+      // Check if the pressed key is the enter key
+      if (event.keyCode === 13) {
+        // Submit the form
+        event.preventDefault(); // Prevent the default form submission behavior
+        document.getElementById("form").submit();
+      }
+    });
+  </script>
+
+</body>
+</html>
